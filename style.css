@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: #fefefe;
+}
+
+.card {
+    margin: 10% auto;
+    padding: 30px;
+    width: 400px;
+    text-align: center;
+    font-size: 24px;
+    font-style: italic;
+    font-family: 'Helvetica Neue';
+    text-transform: uppercase;
+    border: 1px solid #ddd;
+}
